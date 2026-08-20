@@ -1,0 +1,25 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+frontend/node_modules/
+npm-debug.log
+
+# Build
+build/
+dist/
+target/
+bin/
+obj/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
