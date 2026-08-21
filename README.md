@@ -133,7 +133,7 @@ Feel free to connect with me:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/krishnavats123/portfolio.git)
 ```
 
 Navigate to the project directory:
