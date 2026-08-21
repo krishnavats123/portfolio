@@ -1,65 +1,169 @@
-# My Portfolio Website - Overview 🚀
+# Krishna Vats Portfolio 🚀
 
-This repository contains the open-source version of my personal portfolio website.
-Feel free to explore the code and use it for learning and inspiration.
+A modern and interactive developer portfolio showcasing my projects, technical skills, and experience as a Computer Science graduate and aspiring Software Developer.
+
+## 🌐 Overview
+
+This portfolio highlights my journey in software development, featuring projects in Full Stack Development, Machine Learning, and Artificial Intelligence. It serves as a central hub for recruiters, developers, and collaborators to explore my work and technical expertise.
+
+## ✨ Features
+
+* Modern and responsive design
+* Interactive animations and smooth transitions
+* Project showcase with live demos and source code
+* Skills and technology stack overview
+* Professional experience and achievements
+* Contact and social media integration
+* Optimized performance and SEO-friendly structure
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Development Tools
+
+* Git & GitHub
+* VS Code
+* npm
+
+## 📂 Featured Projects
+
+### 🏛️ SchemeSeva (Smart India Hackathon Project)
+
+A government scheme recommendation platform developed as part of the Smart India Hackathon. The system helps citizens discover relevant government schemes based on their profile, eligibility criteria, and requirements.
+
+**Key Features**
+
+* Personalized scheme recommendations
+* Eligibility verification system
+* Document requirement guidance
+* User-friendly interface
+* Efficient scheme discovery process
+
+**Technologies Used**
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+
+---
+
+### 🎯 YOLOv4 DeepSORT Object Tracking System
+
+A real-time object detection and tracking system developed during my internship. The project combines YOLOv4 for object detection and DeepSORT for multi-object tracking, enabling accurate tracking across video streams.
+
+**Key Features**
+
+* Real-time object detection
+* Multi-object tracking
+* High tracking accuracy
+* Video stream processing
+* Performance optimization
+
+**Technologies Used**
+
+* Python
+* YOLOv4
+* DeepSORT
+* OpenCV
 
 ---
 
-## ⚠️ Usage Notice
+### 📝 Automatic Text Summarization System
 
-This project is shared for learning purposes only.
+An NLP-based web application that generates concise summaries from lengthy text documents using extractive summarization techniques.
 
-Please do NOT:
+**Key Features**
 
-* Clone or replicate the full website or design
-* Repost it with minor content changes
-* Use this project for commercial/client work
-* Create tutorials or content using this exact project
+* Automatic text summarization
+* Extractive NLP techniques
+* User-friendly web interface
+* Fast processing
+* Improved content readability
 
-If you use parts of the code, please provide proper credit by linking back to this repository.
+**Technologies Used**
 
-Build your own version — don’t just copy.
+* Python
+* Flask
+* spaCy
+* NLP Libraries
 
-— Krishna Vats
+## 💻 Skills
 
----
+### Programming Languages
 
-## 🛠️ Instructions
+* Java
+* Python
+* JavaScript
+* SQL
 
-I have modified the GSAP Club plugins using trial versions.
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+### Frameworks & Technologies
 
-For official GSAP Club plugins, refer here:
-https://gsap.com/docs/v3/Installation/
+* Spring Boot
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
 
----
+### Core Subjects
 
-## ⚙️ Tech Stack
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Computer Networks
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+## 📫 Contact
 
----
+Feel free to connect with me:
 
-## 🎨 Assets Usage
+* GitHub: https://github.com/krishnavats123
+* LinkedIn: https://www.linkedin.com/in/krishna-vats-785335258/
 
-Some 3D assets included in this repository are free to use for learning purposes.
+## 🚀 Getting Started
 
-However:
+Clone the repository:
 
-* The original 3D avatar used on my live portfolio is NOT included in this repository
-* That avatar is a custom asset created specifically for my portfolio
-* It is not open source and not available for reuse
+```bash
+git clone https://github.com/krishnavats123/portfolio.git
+```
 
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+Navigate to the project directory:
 
----
+```bash
+cd portfolio
+```
 
-![Portfolio Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+Install dependencies:
 
----
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
 
 ## 📄 License
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+This project is open-source and available under the MIT License.
 
-See the LICENSE file for full details.
+---
+
+Built with passion by **Krishna Vats**.
