@@ -75,7 +75,7 @@ const Work = () => {
       tools: "Python, YOLOv4, DeepSORT, OpenCV",
       description:
         "Real-time multi-object tracking system using YOLOv4 for detection and DeepSORT for object tracking.",
-      image: "/images/placeholder.webp",
+      image: "/images/yolo-tracking.webp",
     },
   ];
 
