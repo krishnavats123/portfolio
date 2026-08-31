@@ -17,7 +17,6 @@ const imageUrls = [
   "/images/next2.webp",
   "/images/node2.webp",
   "/images/mongo.webp",
-  
   "/images/typescript.webp",
   "/images/javascript.webp",
   
