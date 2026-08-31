@@ -65,7 +65,7 @@ const Work = () => {
       tools: "Python, Flask, spaCy, TextRank",
       description:
         "Automatic text summarization system that generates concise summaries from large text documents using NLP techniques.",
-      image: "/images/placeholder.webp",
+      image: "/images/summarizer.webp",
     },
     {
       id: 3,
