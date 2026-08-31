@@ -55,7 +55,7 @@ const Work = () => {
       tools: "React, Node.js, Express, MongoDB",
       description:
         "Government scheme recommendation platform that helps users discover schemes based on eligibility and provides application guidance.",
-      image: "/images/placeholder.webp",
+      image: "/images/schemeseva.webp",
     },
     {
       id: 2,
