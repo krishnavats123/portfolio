@@ -55,7 +55,7 @@ const Work = () => {
       tools: "React, Node.js, Express, MongoDB",
       description:
         "Government scheme recommendation platform that helps users discover schemes based on eligibility and provides application guidance.",
-      image: "/images/placeholder.webp",
+      image: "/images/schemeseva.webp",
     },
     {
       id: 2,
@@ -65,7 +65,7 @@ const Work = () => {
       tools: "Python, Flask, spaCy, TextRank",
       description:
         "Automatic text summarization system that generates concise summaries from large text documents using NLP techniques.",
-      image: "/images/placeholder.webp",
+      image: "/images/summarizer.webp",
     },
     {
       id: 3,
@@ -75,7 +75,7 @@ const Work = () => {
       tools: "Python, YOLOv4, DeepSORT, OpenCV",
       description:
         "Real-time multi-object tracking system using YOLOv4 for detection and DeepSORT for object tracking.",
-      image: "/images/placeholder.webp",
+      image: "/images/yolo-tracking.webp",
     },
   ];
 
